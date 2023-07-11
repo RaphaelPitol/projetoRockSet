@@ -1,0 +1,14 @@
+  div{
+      background-color: aquamarine;
+      margin: 10px 30% 20px 30%;
+      border: 1px solid red;
+      text-align: left;
+      border-radius: 5px;
+    }
+    dl{
+      padding: 0 60px 0 60px;
+    }
+
+    form{
+      padding: 10px 30% 10px 30%;
+    }
