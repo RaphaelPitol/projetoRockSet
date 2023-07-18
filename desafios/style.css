@@ -1,9 +1,18 @@
+  body{
+    background-color: rgba(0, 255, 255, 0.539);
+  }
   div{
-      background-color: aquamarine;
+      background-color: rgb(188, 142, 35);
       margin: 10px 30% 20px 30%;
-      border: 1px solid red;
       text-align: left;
       border-radius: 5px;
+      font-size: 25px;
+    }
+    h1{
+      text-align: center;
+    }
+    p {
+      text-align: center;
     }
     dl{
       padding: 0 60px 0 60px;
@@ -11,4 +20,25 @@
 
     form{
       padding: 10px 30% 10px 30%;
+    }
+    div header a{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      text-decoration: none;
+      margin: 10px;
+      background-color: rgba(255, 240, 80, 0.648);
+      border-radius: 5px;
+    }
+    div header a:hover{
+      color: rgba(3, 10, 14, 0.952);
+      border-radius: 5px;
+    }
+    .glossario{
+      background-color: rgb(35, 188, 155);
+      margin: 10px auto 20px auto;
+      text-align: left;
+      border-radius: 5px;
+      font-size: 25px;
+    }
+    .lista{
+      
     }
